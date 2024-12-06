@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocalEstablishmentGuide</string>
+    <string name="helloMessage">Здравствуй,\u0020</string>
+</resources>
